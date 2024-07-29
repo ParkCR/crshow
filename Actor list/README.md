@@ -52,6 +52,7 @@
 | [SSS](https://supjav.com/?s=%E6%A1%90%E6%A2%9D%E7%B4%97%E7%B6%BE) | [桐條紗綾](https://db.msin.jp/jp.page/actress?id=1027976)   [链接2](https://javdb367.com/actors/ak3kW) | 软巨乳肉腿肥臀 |![](https://img.msin.info/jp.images/actress/1027976.jpg)|
 | [SSS](https://supjav.com/category/cast/nagase-minamo) | [永瀬みなも](https://db.msin.jp/jp.page/actress?id=1049255) | 软巨乳肉腿肥臀 |![](https://img.msin.info/jp.images/actress/1049255.jpg)|
 | [SSS](https://supjav.com/category/cast/tsutsui-aisa) | 筒井愛彩 | 高挑匀称 ||
+| [SSS](https://supjav.com/category/cast/ono-yuuko) | 小野夕子 | 软巨乳肉腿肥臀 |![](https://c0.jdbstatic.com/avatars/0x/0x0v.jpg)|
 
 # 美少女
 | **标签** | **演员名字** | **身材特点** | 演员照片 |
@@ -116,8 +117,8 @@
 | [颜值](https://supjav.com/category/cast/kizaki-jessica) | [希崎ジェシカ](https://db.msin.jp/jp.page/actress?id=26774) | 高挑匀称白虎       |![](https://img.msin.info/jp.images/actress/26774.jpg)|
 | [肉坦](https://supjav.com/category/cast/hoshizaki-yuuna) | [星咲優菜](https://db.msin.jp/jp.page/actress?id=1007786) | 巨乳臀浪肉腿       |![](https://img.msin.info/jp.images/actress/1007786.jpg)|
 | [肉坦](https://supjav.com/category/cast/masuzaka-mia) | [益坂美亜](https://db.msin.jp/jp.page/actress?id=1044473) | 巨乳臀浪肉腿       |![](https://img.msin.info/jp.images/actress/1044473.jpg)|
-| [炮架](https://supjav.com/zh/category/cast/fujimori-riho) | [藤森里穂](https://db.msin.jp/jp.page/actress?id=1046172) | 巨乳匀称御姐 |![]()|
-| [美乳炮架](https://supjav.com/zh/category/cast/asakura-kokona) | [朝倉ここな](https://db.msin.jp/jp.page/actress?id=1069005) | 软巨乳匀称御姐 |![]()|
+| [炮架](https://supjav.com/zh/category/cast/fujimori-riho) | [藤森里穂](https://db.msin.jp/jp.page/actress?id=1046172) | 巨乳匀称御姐 |![](https://img.msin.info/jp.images/actress/1046172.jpg)|
+| [美乳炮架](https://supjav.com/zh/category/cast/asakura-kokona) | [朝倉ここな](https://db.msin.jp/jp.page/actress?id=1069005) | 软巨乳匀称御姐 |![](https://img.msin.info/jp.images/actress/1069005.jpg)|
 | [长腿](https://supjav.com/zh/category/cast/kaede-fuua) | [楓ふうあ](https://db.msin.jp/jp.page/actress?id=1071155) | 巨乳匀称御姐 |![](https://img.msin.info/jp.images/actress/1071155.jpg)|
 | [反差](https://supjav.com/category/cast/asahi-rio) | [朝日りお](https://db.msin.jp/jp.page/actress?id=1083166) | 软巨乳匀称御姐 |![](https://img.msin.info/jp.images/actress/1083166.jpg)|
 | [长腿](https://supjav.com/category/cast/kanami-mai) | [神菜美まい](https://db.msin.jp/jp.page/actress?id=1071052) | S长腿-长腿匀称御姐 |![](https://img.msin.info/jp.images/actress/1071052.jpg)|
