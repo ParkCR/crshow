@@ -53,6 +53,7 @@
 | [SSS](https://supjav.com/category/cast/nagase-minamo) | [永瀬みなも](https://db.msin.jp/jp.page/actress?id=1049255) | 软巨乳肉腿肥臀 |![](https://img.msin.info/jp.images/actress/1049255.jpg)|
 | [SSS](https://supjav.com/category/cast/tsutsui-aisa) | 筒井愛彩 | 高挑匀称 ||
 | [SSS](https://supjav.com/category/cast/ono-yuuko) | 小野夕子 | 软巨乳肉腿肥臀 |![](https://c0.jdbstatic.com/avatars/0x/0x0v.jpg)|
+| [SSS](https://supjav.com/category/cast/akagi-ao) | 木下あずみ | 软巨乳匀称胸型好看 |![](https://c0.jdbstatic.com/avatars/2g/2GGP.jpg)|
 
 # 美少女
 | **标签** | **演员名字** | **身材特点** | 演员照片 |
@@ -124,6 +125,7 @@
 | [长腿](https://supjav.com/category/cast/kanami-mai) | [神菜美まい](https://db.msin.jp/jp.page/actress?id=1071052) | S长腿-长腿匀称御姐 |![](https://img.msin.info/jp.images/actress/1071052.jpg)|
 | [魅惑](https://supjav.com/zh/category/cast/nanase-arisu) | [七瀬アリス](https://db.msin.jp/jp.page/actress?id=1063724) | 巨乳匀称御姐 |![](https://img.msin.info/jp.images/actress/1063724.jpg)|
 | [高挑苗条](https://supjav.com/category/cast/ayase-ten) | [綾瀬天](https://db.msin.jp/jp.page/actress?id=1088292) | 巨乳匀称高挑苗条 |![](https://img.msin.info/jp.images/actress/1088292.jpg)|
+| [吻技](https://supjav.com/category/cast/misaki-kanna) | 美咲佳奈 | 吻技 |![](https://c0.jdbstatic.com/avatars/8n/8Nqa.jpg)|
 
 # 熟女系 
 | **标签** | **演员名字** | **身材特点** | 演员照片 |
@@ -141,6 +143,8 @@
 | [SSS](https://supjav.com/category/cast/iioka-kanako) | [森沢かな](https://db.msin.jp/jp.page/actress?id=1020685) | 魅惑软美乳美臀 |![](https://img.msin.info/jp.images/actress/1020685.jpg)|
 | [美臀](https://supjav.com/category/cast/saeki-yumika) | [佐伯由美香](https://db.msin.jp/jp.page/actress?id=1054923) | S臀-魅惑顶级美臀 |![](https://img.msin.info/jp.images/actress/1054923.jpg)|
 | [魅惑](https://supjav.com/category/cast/kujou-michiru) | [九条みちる](https://db.msin.jp/jp.page/actress?id=1067710) | 魅惑 |![](https://img.msin.info/jp.images/actress/1067710.jpg)|
+| [美臀](https://supjav.com/category/cast/kaise-anju) | 安西ひかり | S臀-魅惑顶级美臀 |![](https://c0.jdbstatic.com/avatars/nv/nVBM.jpg)|
+| [美臀](https://supjav.com/category/cast/ariga-minaho) | 有贺美奈穗 | 巨乳白虎长腿 |![](https://c0.jdbstatic.com/avatars/9d/9D6y6.jpg)|
 # 特色系 
 | **标签** | **演员名字** | **身材特点** | 演员照片 |
 |:------------:|:------------:|:------------:|:--------------------:|
