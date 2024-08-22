@@ -35,7 +35,7 @@
 | [SSS](https://supjav.com/zh/category/cast/ichino-aoi) | [一乃あおい](https://db.msin.jp/jp.page/actress?id=1075159)      | 巨乳匀称魅惑      |![演员照片](https://img.msin.info/jp.images/actress/1075159.jpg) |
 | [巨乳](https://supjav.com/zh/category/cast/an-himeka) | [庵ひめか](https://db.msin.jp/jp.page/actress?id=1078558)      | 巨乳肉腿丰满      |![演员照片](https://img.msin.info/jp.images/actress/1078558.jpg) |
 | [巨乳](https://supjav.com/zh/category/cast/asuka-aka) | [有栖花あか](https://db.msin.jp/jp.page/actress?id=1063906) | 软巨乳细腰白虎 |![](https://img.msin.info/jp.images/actress/1063906.jpg) |
-| [SSS](https://supjav.com/zh/category/cast/akagi-ao) | [木下あずみ](https://db.msin.jp/jp.page/actress?id=1018128) | 巨乳肉腿丰满 |![](https://img.msin.info/jp.images/actress/1018128.jpg) |
+| [SSS](https://supjav.com/zh/category/cast/akagi-ao) | [木下あずみ](https://db.msin.jp/jp.page/actress?id=1018128) | 软巨乳匀称胸型好看肉腿丰满 |![](https://img.msin.info/jp.images/actress/1018128.jpg) |
 | [SSS](https://supjav.com/category/cast/asami-yuma) | [麻美ゆま](https://db.msin.jp/jp.page/actress?id=15365) | 魅惑软巨乳美臀      |![](https://img.msin.info/jp.images/actress/15365.jpg)|
 | [巨乳](https://supjav.com/category/cast/himari) | [Himari](https://db.msin.jp/jp.page/actress?id=1092582) | 魅惑巨乳肉腿肥美 |![](https://img.msin.info/jp.images/actress/1092582.jpg)|
 | [SSS](https://supjav.com/category/cast/amemiya-hibiki) | [雨宮ひびき](https://db.msin.jp/jp.page/actress?id=1089768) | 清纯匀称软巨乳肉腿 |![](https://img.msin.info/jp.images/actress/1089768.jpg)|
@@ -53,8 +53,9 @@
 | [SSS](https://supjav.com/category/cast/nagase-minamo) | [永瀬みなも](https://db.msin.jp/jp.page/actress?id=1049255) | 软巨乳肉腿肥臀 |![](https://img.msin.info/jp.images/actress/1049255.jpg)|
 | [SSS](https://supjav.com/category/cast/tsutsui-aisa) | 筒井愛彩 | 高挑匀称 ||
 | [SSS](https://supjav.com/category/cast/ono-yuuko) | 小野夕子 | 软巨乳肉腿肥臀 |![](https://c0.jdbstatic.com/avatars/0x/0x0v.jpg)|
-| [SSS](https://supjav.com/category/cast/akagi-ao) | 木下あずみ | 软巨乳匀称胸型好看 |![](https://c0.jdbstatic.com/avatars/2g/2GGP.jpg)|
+| [SSS](https://supjav.com/zh/category/cast/kinami-hina) | 木南日菜 | 软巨乳匀称胸型好看肥美 |![](https://japanesethumbs.com/thumbs/243243/544713.jpg)|
 | [SSS](https://supjav.com/category/cast/minami-shiori) | 美波汐里 | 软巨乳肉腿肥臀 |![](https://c0.jdbstatic.com/avatars/p3/p35e9.jpg)|
+| [SSS](https://supjav.com/category/cast/sakura-kokomi) | 桜ここみ | 巨乳匀称腰臀比 |![](https://japanesethumbs.com/thumbs/243243/245862.jpg)|
 
 # 美少女
 | **标签** | **演员名字** | **身材特点** | 演员照片 |
@@ -105,7 +106,6 @@
 | [肥臀](https://supjav.com/category/cast/akira-eri) | [晶エリ](https://db.msin.jp/jp.page/actress?id=14495) | 巨乳肥臀           |![](https://img.msin.info/jp.images/actress/14495.jpg)|
 | [肉坦](https://supjav.com/category/cast/arioka-miu) | [有岡みう](https://db.msin.jp/jp.page/actress?id=1043259) | 巨乳肥臀           |![](https://img.msin.info/jp.images/actress/1043259.jpg)|
 | [炮架](https://supjav.com/category/cast/niimura-akari) | [新村あかり](https://db.msin.jp/jp.page/actress?id=1036352) | 魅惑巨乳肥臀       |![](https://img.msin.info/jp.images/actress/1036352.jpg)|
-| [肥臀](https://supjav.com/category/cast/miyamoto-rui) | [宮本留衣](https://db.msin.jp/jp.page/actress?id=16988) | 魅惑巨乳肥臀       ||
 | [炮架](https://supjav.com/category/cast/maaya-irita) | [入田真綾](https://db.msin.jp/jp.page/actress?id=1081914) | 巨乳臀腿白虎       |![](https://img.msin.info/jp.images/actress/1081914.jpg)|
 | [美臀](https://supjav.com/category/cast/aizawa-minami) | [相沢みなみ](https://db.msin.jp/jp.page/actress?id=1035513) | S美臀-御姐演技肥臀     |![](https://img.msin.info/jp.images/actress/1035513.jpg)|
 | [肥臀](https://supjav.com/category/cast/kami-anna) | [加美杏奈](https://db.msin.jp/jp.page/actress?id=1058114) | S肥臀-御姐演技肥臀     |![](https://img.msin.info/jp.images/actress/1058114.jpg)|
@@ -147,8 +147,9 @@
 | [魅惑](https://supjav.com/category/cast/kujou-michiru) | [九条みちる](https://db.msin.jp/jp.page/actress?id=1067710) | 魅惑 |![](https://img.msin.info/jp.images/actress/1067710.jpg)|
 | [美臀](https://supjav.com/category/cast/kaise-anju) | 安西ひかり | S臀-魅惑顶级美臀 |![](https://c0.jdbstatic.com/avatars/nv/nVBM.jpg)|
 | [美臀](https://supjav.com/category/cast/ariga-minaho) | 有贺美奈穗 | 巨乳白虎长腿 |![](https://c0.jdbstatic.com/avatars/9d/9D6y6.jpg)|
-| [美乳](https://supjav.com/category/cast/amamiya-kasumi) |                         天宮かすみ                          | 巨乳美乳 ||
+| [美乳](https://supjav.com/category/cast/amamiya-kasumi) |                         天宮かすみ                          | 巨乳美乳 |![](https://fivetiu.com/actress/1092919.jpg)|
 | [小只马](https://supjav.com/category/cast/fuji-kanna) | 藤かんな | 小只马-魅惑软美乳美臀 |![](https://c0.jdbstatic.com/avatars/p3/p3DYE.jpg)|
+| [丰满肥美](https://supjav.com/zh/category/cast/hanazawa-mirei) | 花澤美玲 | 魅惑丰满肥臀 |![](https://fivetiu.com/actress/1094466.jpg)|
 # 特色系 
 | **标签** | **演员名字** | **身材特点** | 演员照片 |
 |:------------:|:------------:|:------------:|:--------------------:|
@@ -158,3 +159,9 @@
 | [炮架](https://supjav.com/category/cast/asahi-rin) | [朝日りん](https://db.msin.jp/jp.page/actress?id=1070153) | S级身材-白皙天然巨乳长腿白虎 |![](https://img.msin.info/jp.images/actress/1070153.jpg)|
 | [SSS](https://supjav.com/category/cast/ayase-kokoro) | [綾瀬こころ](https://db.msin.jp/jp.page/actress?id=1076928) | S级身材-软巨乳细腰丰满臀腿 |![](https://img.msin.info/jp.images/actress/1076928.jpg)|
 | [肥臀](https://supjav.com/?s=%E6%BB%9D%E3%82%86%E3%81%84%E3%81%AA) | [滝ゆいな](https://db.msin.jp/jp.page/actress?id=1079036) | 骨架大丰满肉感肉腿肉臀 |![](https://img.msin.info/jp.images/actress/1079036.jpg)|
+# 微胖丰满系 
+| **标签** | **演员名字** | **身材特点** | 演员照片 |
+|:------------:|:------------:|:------------:|:--------------------:|
+| [巨乳](https://supjav.com/category/cast/nishina-momoka) | 仁科百華 | 巨乳丰满肉感肉腿肉臀 |![](https://c0.jdbstatic.com/avatars/xb/XBRV.jpg)|
+| [巨乳](https://supjav.com/zh/category/cast/inaba-ruka) | 稲場るか | 巨乳丰满肉感 |![](https://c0.jdbstatic.com/avatars/vn/vNKW.jpg)|
+
