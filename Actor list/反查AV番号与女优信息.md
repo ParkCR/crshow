@@ -1,3 +1,5 @@
+https://disp.cc/ptt/japanavgirls/1cfhzHv0
+
 : 那個大大們提供過一個可以反查AV番號及與女優
 : 還有女優所有變換名的網站
 : https://db.msin.jp/
