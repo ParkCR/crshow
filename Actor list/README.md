@@ -96,12 +96,12 @@
 | [蚊香社 颜值](https://supjav.com/category/cast/rukawa-yuu) | [流川夕](https://db.msin.jp/jp.page/actress?id=200043945) | 清纯白皙白虎      |![演员照片](https://img.msin.info/jp.images/actress/200043945.jpg)|
 | [蚊香社 美臀](https://supjav.com/category/cast/nanashima-mai) | [七嶋舞](https://db.msin.jp/jp.page/actress?id=200041447) | S圆臀-美臀白皙白虎 |![演员照片](https://img.msin.info/jp.images/actress/200041447.jpg)|
 | [蚊香社 颜值](https://supjav.com/category/cast/suzumori-remu) | [涼森れむ](https://db.msin.jp/jp.page/actress?id=1051912) | 巨乳臀腿白虎      |![演员照片](https://img.msin.info/jp.images/actress/1051912.jpg)|
-| [小只马 潮吹](https://supjav.com/category/cast/sakamichi-miru) | [miru](https://db.msin.jp/jp.page/actress?id=1047128) | 小只马潮吹白虎       |![演员照片](https://img.msin.info/jp.images/actress/1047128.jpg)|
+| [小只马 潮吹](https://supjav.com/category/cast/sakamichi-miru) | [miru](https://db.msin.jp/jp.page/actress?id=1047128) | 小只马 白嫩 潮吹白虎 |![演员照片](https://img.msin.info/jp.images/actress/1047128.jpg)|
+| [小只马长腿 潮吹](https://supjav.com/zh/category/cast/senkawa-towa) | [千川とわ](https://javdb369.com/actors/rmVMr) | 小只马 白嫩 潮吹白虎 匀称长腿 美臀 腰臀比/miru同款平替 |![](https://i1.wp.com/pics.dmm.co.jp/mono/actjpgs/sengawa_towa.jpg)|
 | [美臀](https://supjav.com/category/cast/ozaki-erika) | [尾崎えりか](https://db.msin.jp/jp.page/actress?id=1078618) | 臀浪肉腿         |![演员照片](https://img.msin.info/jp.images/actress/1078618.jpg) |
 | [美臀](https://supjav.com/category/cast/suehiro-jun) | [末広純](https://db.msin.jp/jp.page/actress?id=1075675) | 臀浪肉腿          |![演员照片](https://img.msin.info/jp.images/actress/1075675.jpg)|
 | [可爱](https://supjav.com/category/cast/mita-marin) | [三田真鈴](https://db.msin.jp/jp.page/actress?id=1087625) | 美乳臀腿白虎     |![演员照片](https://img.msin.info/jp.images/actress/1087625.jpg)|
 | [微胖](https://supjav.com/category/cast/himesaki-hana) | [姫咲はな](https://db.msin.jp/jp.page/actress?id=1061659) | 巨乳臀浪肉腿      |![演员照片](https://img.msin.info/jp.images/actress/1061659.jpg)|
-| [长腿](https://supjav.com/category/cast/senkawa-towa) | [千川とわ](https://db.msin.jp/jp.page/actress?id=1092218) | 匀称长腿美臀      |![演员照片](https://img.msin.info/jp.images/actress/1092218.jpg)|
 | [长腿](https://supjav.com/category/cast/tsukinoe-sui) | [月野江すい](https://db.msin.jp/jp.page/actress?id=1087778) | 匀称长腿美臀      |![演员照片](https://img.msin.info/jp.images/actress/1087778.jpg)|
 | [童颜 长腿](https://supjav.com/category/cast/kosaka-nanaka) | [小坂七香](https://db.msin.jp/jp.page/actress?id=1090884) | 童颜 可爱俏皮 长腿高挑 冷白皮 |![演员照片](https://img.msin.info/jp.images/actress/1090884.jpg)|
 | [童颜 长腿](https://supjav.com/zh/category/cast/shirakami-emika) | [白上咲花](https://avname-search.com/tag/actor9373/) | 童颜 可爱俏皮 长腿高挑 冷白皮 腰臀比（小坂七香同款） |![](https://t1.daumcdn.net/thumb/R2000x0/?fname=https://pics.dmm.co.jp/mono/actjpgs/sirakami_emika.jpg)|
