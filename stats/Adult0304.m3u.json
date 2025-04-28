@@ -1,14 +1,14 @@
 {
-  "m3u8": 2123,
+  "m3u8": 1993,
   "mp4": 0,
-  "other": 1,
-  "timestamp": "2025-04-28T14:01:26.742771+08:00",
+  "other": 0,
+  "timestamp": "2025-04-28T14:07:15.625021+08:00",
   "file_path": "Adult0304.m3u",
   "sample_links": {
     "m3u8": [
-      "https://j9.avstatic.com/contents/videos/33000/33044/index.m3u8",
-      "https://j9.avstatic.com/contents/videos/35000/35874/index.m3u8",
-      "https://j9.avstatic.com/contents/videos/30000/30135/index.m3u8"
+      "https://ypmnkbb.saejeuj.com/api/app/media/m3u8/v2/av/r0/rx/35/uo/b4a1346429e04d929c97b9843da36c91.m3u8?",
+      "https://ypmnkbb.saejeuj.com/api/app/media/m3u8/v2/av/iv/pt/6q/vd/6476816d621042c783018eb44886efe0.m3u8?",
+      "https://ypmnkbb.saejeuj.com/api/app/media/m3u8/v2/av/19/ru/fs/dx/f849078185e0403290aef65b774391fd.m3u8?"
     ],
     "mp4": []
   }
