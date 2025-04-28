@@ -1,1 +1,17 @@
-{"count": 521, "timestamp": "2025-04-28T04:58:19.365188"}
+{
+  "m3u8": 521,
+  "mp4": 15,
+  "other": 1,
+  "timestamp": "2025-04-28T05:23:28.106652",
+  "file_path": "sextb.m3u",
+  "sample_m3u8": [
+    "https://t26.cdn2020.com/video/m3u8/2023/08/19/30583c83/index.m3u8",
+    "https://t26.cdn2020.com/video/m3u8/2023/09/01/c7ac3b9b/index.m3u8",
+    "https://t26.cdn2020.com/video/m3u8/2023/10/08/8a3bb433/index.m3u8"
+  ],
+  "sample_mp4": [
+    "https://video.twimg.com/ext_tw_video/1760350619817451521/pu/vid/avc1/720x1280/w2djvficp3m2bAj5.mp4?tag=12",
+    "https://video.twimg.com/ext_tw_video/1836578033639272448/pu/vid/avc1/720x1280/3015shnVC9rbZOig.mp4?tag=12",
+    "https://video.twimg.com/ext_tw_video/1837459252069519361/pu/vid/avc1/720x1280/6MXkvwHSlTYpLS56.mp4?tag=12"
+  ]
+}

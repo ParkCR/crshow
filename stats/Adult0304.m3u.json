@@ -1,1 +1,13 @@
-{"count": 1679, "timestamp": "2025-04-28T04:58:19.362542"}
+{
+  "m3u8": 2123,
+  "mp4": 0,
+  "other": 1,
+  "timestamp": "2025-04-28T05:23:28.096026",
+  "file_path": "Adult0304.m3u",
+  "sample_m3u8": [
+    "https://j9.avstatic.com/contents/videos/33000/33044/index.m3u8",
+    "https://j9.avstatic.com/contents/videos/35000/35874/index.m3u8",
+    "https://j9.avstatic.com/contents/videos/30000/30135/index.m3u8"
+  ],
+  "sample_mp4": []
+}
