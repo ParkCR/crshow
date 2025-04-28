@@ -2,16 +2,18 @@
   "m3u8": 81,
   "mp4": 110,
   "other": 0,
-  "timestamp": "2025-04-28T05:23:28.110333",
+  "timestamp": "2025-04-28T05:33:25.905576",
   "file_path": "sexkbj.m3u",
-  "sample_m3u8": [
-    "https://surrit.com/2768b810-ac17-442b-9006-f1c20c3b1300/720p/video.m3u8",
-    "https://surrit.com/af5fedd4-966f-479c-809f-377d57cb7013/720p/video.m3u8",
-    "https://surrit.com/67c24604-d224-4c93-abd3-ac48085e7104/720p/video.m3u8"
-  ],
-  "sample_mp4": [
-    "https://xn--hu5bp8ba.com/uploads/editor/2025/04/3543306727_gRc59bEW_0QJPxorGfvm1jksN.mp4",
-    "https://xn--hu5bp8ba.com/uploads/editor/2025/04/3543306727_i6hev1Nx_Lwn3bsp04lFuHPM8.mp4",
-    "https://img1.heye.kr/video/bjsns/2025/03/17427227566671.mp4"
-  ]
+  "sample_links": {
+    "m3u8": [
+      "https://surrit.com/2768b810-ac17-442b-9006-f1c20c3b1300/720p/video.m3u8",
+      "https://surrit.com/af5fedd4-966f-479c-809f-377d57cb7013/720p/video.m3u8",
+      "https://surrit.com/67c24604-d224-4c93-abd3-ac48085e7104/720p/video.m3u8"
+    ],
+    "mp4": [
+      "https://xn--hu5bp8ba.com/uploads/editor/2025/04/3543306727_gRc59bEW_0QJPxorGfvm1jksN.mp4",
+      "https://xn--hu5bp8ba.com/uploads/editor/2025/04/3543306727_i6hev1Nx_Lwn3bsp04lFuHPM8.mp4",
+      "https://img1.heye.kr/video/bjsns/2025/03/17427227566671.mp4"
+    ]
+  }
 }

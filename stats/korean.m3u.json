@@ -1,17 +1,15 @@
 {
-  "m3u8": 7,
+  "m3u8": 0,
   "mp4": 79,
   "other": 0,
-  "timestamp": "2025-04-28T05:23:28.085089",
+  "timestamp": "2025-04-28T05:33:25.907090",
   "file_path": "korean.m3u",
-  "sample_m3u8": [
-    "https://vod-normal-global-cdn-z02.sooplive.co.kr/v102/hls/clip/20250107/403/d48b56e4-a4a6-4a6e-aba2-550e9bba0280/8516403.smil/original/both/playlist.m3u8",
-    "https://vod-normal-global-cdn-z02.sooplive.co.kr/v102/hls/review_clip/20250214/9240263/catch_20250214_9240263_1.smil/original/both/playlist.m3u8",
-    "https://vod-normal-global-cdn-z02.sooplive.co.kr/v102/hls/clip/20250128/019/87ffa3ba-1ef3-4243-8843-a35bc21d51c7/8905019.smil/original/both/playlist.m3u8"
-  ],
-  "sample_mp4": [
-    "https://img1.heye.kr/video/bjsns/2025/03/17427227566671.mp4",
-    "https://img1.heye.kr/video/bjsns/2025/03/17427227576084.mp4",
-    "https://img1.heye.kr/video/bjsns/2025/03/17427226846782.mp4"
-  ]
+  "sample_links": {
+    "m3u8": [],
+    "mp4": [
+      "https://img1.heye.kr/video/bjsns/2025/03/17427227566671.mp4",
+      "https://img1.heye.kr/video/bjsns/2025/03/17427227576084.mp4",
+      "https://img1.heye.kr/video/bjsns/2025/03/17427226846782.mp4"
+    ]
+  }
 }
