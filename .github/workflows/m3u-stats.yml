@@ -5,6 +5,13 @@ on:
     paths:
       - '**.m3u'
       - '!stats/**'  # 排除统计目录本身的变化
+  workflow_dispatch:  # 添加手动触发支持
+    inputs:
+      force_update:
+        description: 'Force update all M3U files (ignore last stats)'
+        required: false
+        default: 'false'
+        type: boolean
 
 jobs:
   update-m3u-stats:
@@ -28,7 +35,7 @@ jobs:
 
     - name: Run M3U statistics script
       run: |
-        python .github/scripts/update_m3u_stats.py
+        python .github/scripts/update_m3u_stats.py ${{ github.event_name == 'workflow_dispatch' && inputs.force_update || 'false' }}
 
     - name: Commit changes
       run: |
