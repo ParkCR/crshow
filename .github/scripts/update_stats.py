@@ -56,15 +56,24 @@ def format_change(change):
     return "0"
 
 def update_file_header(file_path, current_stats, prev_stats):
-    """更新文件头部统计信息（修复时区和增减统计问题）"""
+    """更新文件头部统计信息（修复旧统计未移除问题）"""
     try:
         content = file_path.read_text(encoding='utf-8')
     except UnicodeDecodeError:
         content = file_path.read_text(encoding='gbk')  # 尝试GBK编码
     
-    # 移除旧统计行
-    lines = [line for line in content.splitlines() 
-             if not line.strip().startswith("# STATS:")]
+    # 移除所有旧统计行（匹配以 # STATS: 开头的行及其后续行，直到下一个非注释行）
+    lines = []
+    skip_until_empty_line = False
+    for line in content.splitlines():
+        if line.strip().startswith("# STATS:"):
+            skip_until_empty_line = True
+            continue
+        if skip_until_empty_line:
+            if not line.strip():  # 遇到空行时停止跳过
+                skip_until_empty_line = False
+            continue
+        lines.append(line)
     
     # 计算变化量（处理prev_stats不存在或格式错误的情况）
     changes = {}
@@ -76,13 +85,14 @@ def update_file_header(file_path, current_stats, prev_stats):
     # 使用本地时间（UTC+8）
     timestamp = get_local_time().strftime('%Y-%m-%d %H:%M:%S')
     
-    # 生成统计行
+    # 生成新的统计行
     stats_lines = [
         "# STATS: Media Links Summary",
         f"# Updated: {timestamp} (UTC+8)",
         f"# M3U8: {current_stats['m3u8']} (Change: {format_change(changes.get('m3u8', 0))})",
         f"# MP4: {current_stats['mp4']} (Change: {format_change(changes.get('mp4', 0))})",
-        "#" + "=" * 50
+        "#" + "=" * 50,
+        ""  # 添加空行分隔
     ]
     
     # 保留原文件的换行符风格
