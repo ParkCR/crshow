@@ -25,12 +25,6 @@ jobs:
       with:
         fetch-depth: 2
         token: ${{ secrets.GITHUB_TOKEN }}
-        
-    - name: Verify files
-      run: |
-        echo "Checking repository structure..."
-        ls -la .github/scripts/
-        pwd
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -41,10 +35,9 @@ jobs:
       run: pip install tqdm
 
     - name: Run statistics script
-      working-directory: ${{ github.workspace }}  # 确保工作目录正确
       run: |
-        echo "Current directory: $(pwd)"
-        python .github/scripts/update_stats.py --force-update="${{ github.event_name == 'workflow_dispatch' && inputs.force_update || 'false' }}"
+        python .github/scripts/update_stats.py \
+          --force-update="${{ github.event_name == 'workflow_dispatch' && inputs.force_update || 'false' }}"
 
     - name: Commit changes
       run: |
