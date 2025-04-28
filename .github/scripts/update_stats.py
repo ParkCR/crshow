@@ -2,13 +2,18 @@
 import sys
 import re
 import argparse
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 import json
 from tqdm import tqdm
 
 STATS_DIR = Path("stats")
 STATS_DIR.mkdir(exist_ok=True)
+
+def get_local_time():
+    """获取 UTC+8 时间（北京时间）"""
+    utc_time = datetime.now(timezone.utc)
+    return utc_time.astimezone(timezone(timedelta(hours=8)))
 
 def count_media_entries(content):
     """统计.m3u8和.mp4链接数量"""
@@ -51,7 +56,7 @@ def format_change(change):
     return "0"
 
 def update_file_header(file_path, current_stats, prev_stats):
-    """更新文件头部统计信息（修复增减统计问题）"""
+    """更新文件头部统计信息（修复时区和增减统计问题）"""
     try:
         content = file_path.read_text(encoding='utf-8')
     except UnicodeDecodeError:
@@ -68,11 +73,13 @@ def update_file_header(file_path, current_stats, prev_stats):
             if k in prev_stats and k in current_stats:
                 changes[k] = current_stats[k] - prev_stats[k]
     
-    # 生成统计行（确保所有情况都有值）
-    timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+    # 使用本地时间（UTC+8）
+    timestamp = get_local_time().strftime('%Y-%m-%d %H:%M:%S')
+    
+    # 生成统计行
     stats_lines = [
         "# STATS: Media Links Summary",
-        f"# Updated: {timestamp}",
+        f"# Updated: {timestamp} (UTC+8)",
         f"# M3U8: {current_stats['m3u8']} (Change: {format_change(changes.get('m3u8', 0))})",
         f"# MP4: {current_stats['mp4']} (Change: {format_change(changes.get('mp4', 0))})",
         "#" + "=" * 50
@@ -101,7 +108,7 @@ def process_file(file_path, force_update):
         # 保存完整统计（包含示例链接）
         stats_data = {
             **current_stats,
-            "timestamp": datetime.now().isoformat(),
+            "timestamp": get_local_time().isoformat(),  # 使用本地时间
             "file_path": str(file_path),
             "sample_links": {
                 "m3u8": [line for line in content.splitlines() 
