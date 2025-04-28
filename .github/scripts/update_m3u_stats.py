@@ -1,5 +1,6 @@
 import os
 import re
+import sys
 from datetime import datetime
 from pathlib import Path
 import json
@@ -14,8 +15,11 @@ def count_m3u8_entries(m3u_content):
     return len([line for line in m3u_content.splitlines() 
                if line.strip() and not line.startswith("#") and line.endswith(".m3u8")])
 
-def get_previous_stats(m3u_file):
+def get_previous_stats(m3u_file, force_update=False):
     """获取上一次的统计信息"""
+    if force_update:
+        return None
+        
     stats_file = STATS_DIR / f"{m3u_file.name}.json"
     if stats_file.exists():
         with open(stats_file, 'r') as f:
@@ -62,13 +66,13 @@ def update_m3u_file(m3u_file, current_count, previous_count=None):
         f.write("\n".join(lines))
         f.truncate()
 
-def process_m3u_file(m3u_file):
+def process_m3u_file(m3u_file, force_update=False):
     """处理单个M3U文件"""
     with open(m3u_file, 'r', encoding='utf-8') as f:
         content = f.read()
     
     current_count = count_m3u8_entries(content)
-    previous_stats = get_previous_stats(m3u_file)
+    previous_stats = get_previous_stats(m3u_file, force_update)
     previous_count = previous_stats["count"] if previous_stats else None
     
     update_m3u_file(m3u_file, current_count, previous_count)
@@ -82,6 +86,9 @@ def process_m3u_file(m3u_file):
     }
 
 def main():
+    # 检查是否强制更新
+    force_update = len(sys.argv) > 1 and sys.argv[1].lower() == 'true'
+    
     # 查找所有M3U文件
     m3u_files = list(Path(".").glob("**/*.m3u"))
     
@@ -90,11 +97,13 @@ def main():
         return
     
     print(f"Found {len(m3u_files)} M3U file(s). Processing...")
+    if force_update:
+        print("Force update mode - ignoring previous stats")
     
     results = []
     for m3u_file in tqdm(m3u_files, desc="Processing M3U files"):
         try:
-            result = process_m3u_file(m3u_file)
+            result = process_m3u_file(m3u_file, force_update)
             results.append(result)
         except Exception as e:
             print(f"Error processing {m3u_file}: {str(e)}")
