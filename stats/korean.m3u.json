@@ -1,15 +1,15 @@
 {
   "m3u8": 0,
-  "mp4": 79,
+  "mp4": 71,
   "other": 0,
-  "timestamp": "2025-04-28T05:33:25.907090",
+  "timestamp": "2025-04-28T05:35:21.452813",
   "file_path": "korean.m3u",
   "sample_links": {
     "m3u8": [],
     "mp4": [
       "https://img1.heye.kr/video/bjsns/2025/03/17427227566671.mp4",
       "https://img1.heye.kr/video/bjsns/2025/03/17427227576084.mp4",
-      "https://img1.heye.kr/video/bjsns/2025/03/17427226846782.mp4"
+      "https://img1.heye.kr/video/bjsns/2025/03/17427225736778.mp4"
     ]
   }
 }
