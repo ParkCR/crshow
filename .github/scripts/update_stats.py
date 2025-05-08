@@ -95,9 +95,18 @@ def update_file_header(file_path, current_stats, prev_stats):
         ""  # 添加空行分隔
     ]
     
+    # 找到 #EXTM3U 行的位置
+    extm3u_index = next((i for i, line in enumerate(lines) if line.strip().startswith("#EXTM3U")), None)
+    if extm3u_index is not None:
+        # 在 #EXTM3U 行之后插入统计信息
+        new_lines = lines[:extm3u_index + 1] + stats_lines + lines[extm3u_index + 1:]
+    else:
+        # 如果没有 #EXTM3U 行，则将其添加到开头
+        new_lines = ["#EXTM3U"] + stats_lines + lines
+    
     # 保留原文件的换行符风格
     newline = "\r\n" if "\r\n" in content else "\n"
-    new_content = newline.join(stats_lines) + newline + newline.join(lines)
+    new_content = newline.join(new_lines)
     file_path.write_text(new_content, encoding='utf-8')
 
 def process_file(file_path, force_update):
