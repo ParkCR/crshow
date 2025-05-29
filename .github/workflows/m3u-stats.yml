@@ -46,3 +46,13 @@ jobs:
         git add -A
         git diff --quiet && git diff --staged --quiet || git commit -m "Update media statistics [skip ci]"
         git push
+
+    - name: Refresh jsDelivr cache for M3U files
+      run: |
+        # Wait a few seconds to ensure changes are propagated
+        sleep 10
+        # 刷新当前项目的所有 M3U 文件
+        curl "https://purge.jsdelivr.net/gh/${{github.repository}}/*.m3u"
+        # 刷新其他项目的特定 M3U 文件（替换 user/repo-a 和文件名）:
+        curl "https://purge.jsdelivr.net/gh/ParkCR/pintree@gh-pages/streaming/kbj.m3u"
+        curl "https://purge.jsdelivr.net/gh/ParkCR/pintree@gh-pages/streaming/xdy.m3u"
