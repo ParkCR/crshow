@@ -56,3 +56,4 @@ jobs:
         # 刷新其他项目的特定 M3U 文件（替换 user/repo-a 和文件名）:
         curl "https://purge.jsdelivr.net/gh/ParkCR/pintree@gh-pages/streaming/kbj.m3u"
         curl "https://purge.jsdelivr.net/gh/ParkCR/pintree@gh-pages/streaming/xdy.m3u"
+        curl "https://purge.jsdelivr.net/gh/ParkCR/pintree@gh-pages/streaming/ocosplay.m3u"
