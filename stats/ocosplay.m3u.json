@@ -1,0 +1,15 @@
+{
+  "m3u8": 0,
+  "mp4": 3049,
+  "other": 0,
+  "timestamp": "2025-07-14T17:06:34.520685+08:00",
+  "file_path": "ocosplay.m3u",
+  "sample_links": {
+    "m3u8": [],
+    "mp4": [
+      "https://cdn1.ososedki.com/videos/mp4/1.mp4 ",
+      "https://cdn1.ososedki.com/videos/mp4/2.mp4 ",
+      "https://cdn1.ososedki.com/videos/mp4/3.mp4 "
+    ]
+  }
+}
