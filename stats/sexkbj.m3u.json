@@ -1,8 +1,8 @@
 {
   "m3u8": 626,
-  "mp4": 274,
+  "mp4": 286,
   "other": 3,
-  "timestamp": "2025-07-14T17:06:34.490214+08:00",
+  "timestamp": "2025-07-17T21:20:36.430234+08:00",
   "file_path": "sexkbj.m3u",
   "sample_links": {
     "m3u8": [
@@ -11,9 +11,9 @@
       "https://surrit.com/67c24604-d224-4c93-abd3-ac48085e7104/720p/video.m3u8"
     ],
     "mp4": [
+      "https://img1.heye.kr/video/bjsns/2025/07/17526393617590.mp4",
       "https://img1.heye.kr/video/bjsns/2025/06/17507095015179.mp4",
-      "https://imgur.fsky.io/MAooCkK.mp4",
-      "https://imgur.fsky.io/CorPj5q.mp4"
+      "https://imgur.fsky.io/MAooCkK.mp4"
     ]
   }
 }
