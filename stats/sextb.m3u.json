@@ -1,8 +1,8 @@
 {
   "m3u8": 541,
-  "mp4": 55,
+  "mp4": 153,
   "other": 1,
-  "timestamp": "2025-08-28T21:42:27.128822+08:00",
+  "timestamp": "2025-09-01T21:50:03.832349+08:00",
   "file_path": "sextb.m3u",
   "sample_links": {
     "m3u8": [
@@ -11,9 +11,9 @@
       "https://t26.cdn2020.com/video/m3u8/2023/10/08/8a3bb433/index.m3u8"
     ],
     "mp4": [
-      "https://video.twimg.com/amplify_video/1902080797559156736/vid/avc1/720x1280/8bo1wDyItGSTullO.mp4",
-      "https://video.twimg.com/amplify_video/1902081393129353217/vid/avc1/720x1280/iEtmgxx_lIAF3tZc.mp4",
-      "https://video.twimg.com/ext_tw_video/1856923210811674626/pu/vid/avc1/360x640/1w2rer9UM8SVM2Sp.mp4"
+      "https://video.twimg.com/ext_tw_video/1387717127520473090/pu/vid/720x1280/G4DSQLiFtnN2tIQC.mp4",
+      "https://video.twimg.com/ext_tw_video/1071391083802767360/pu/vid/1280x720/QVQiZglp8XxTlo2T.mp4",
+      "https://video.twimg.com/amplify_video/1902080797559156736/vid/avc1/720x1280/8bo1wDyItGSTullO.mp4"
     ]
   }
 }
