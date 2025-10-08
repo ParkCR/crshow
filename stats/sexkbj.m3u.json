@@ -1,8 +1,8 @@
 {
-  "m3u8": 624,
-  "mp4": 341,
+  "m3u8": 630,
+  "mp4": 420,
   "other": 4,
-  "timestamp": "2025-09-01T21:50:03.840086+08:00",
+  "timestamp": "2025-10-08T17:33:29.578643+08:00",
   "file_path": "sexkbj.m3u",
   "sample_links": {
     "m3u8": [
@@ -11,9 +11,9 @@
       "https://surrit.com/67c24604-d224-4c93-abd3-ac48085e7104/720p/video.m3u8"
     ],
     "mp4": [
-      "https://manpeace.org/data/video/dbdnjfdlfdl/enfrlditdksrudqmfk.mp4",
-      "https://go.cdn-player.top/?url=https://litter.catbox.moe/bb7x0pt4vvp8mjsm.mp4",
-      "https://go.cdn-player.top/?url=https://litter.catbox.moe/vgrh4pt8ct0idrwk.mp4"
+      "https://etoland.co.kr/data/files/infl/2025/0918/2588331966_9yWCjA0L_ID2lXseSotYkKaN5.mp4",
+      "https://etoland.co.kr/data/files/infl/2025/0918/2588331966_mHXi26f4_QekhR90npCZNLOqs.mp4",
+      "https://etoland.co.kr/data/files/infl/2025/1004/2588331922_qJ3a7RTo_CXVI2UBFxLKA9un1.mp4"
     ]
   }
 }
